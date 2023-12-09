@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: rgb(214, 34, 64);
+    color: #333;
+    font-family: 'Tahoma', sans-serif;
+  }
+  h1 {
+    color: #444;
+    font-family: 'Tahoma', sans-serif;
+      }
+      
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  input {
+    margin-right: 10px;
+  }
+  button {
+    margin-left: 10px;
+  }
+  

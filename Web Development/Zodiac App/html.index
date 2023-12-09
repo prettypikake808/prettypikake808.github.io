@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Zodiac Sign App</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Zodiac Sign App</h1>
+    <p>Enter your birthdate to find your zodiac sign:</p>
+    <input type="date" id="birthdate">
+    <button onclick="findZodiac()">Find</button>
+    <p id="result"></p>
+    <script src="app.js"></script>
+  </body>
+</html>
